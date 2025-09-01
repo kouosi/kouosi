@@ -1,1 +1,1 @@
-I'm migrating away from GitHub to [Codeberg](https://codeberg.org/kouosi/).
+Nothing to see here instead goto 👉 [https://codeberg.org/kouosi](https://codeberg.org/kouosi/)
